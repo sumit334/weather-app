@@ -10,8 +10,6 @@ A simple weather application that allows users to get weather information for a 
 ### Usage
 ### API Key
 ### Technologies Used
-### Contributing
-### License
 ### Contact
 ## Project Overview
 The Weather App is a web-based application that provides users with real-time weather information for a given city and country. It utilizes the OpenWeatherMap API to fetch weather data and displays it in a user-friendly format. The application is built using React and Material-UI for the user interface.
@@ -48,8 +46,6 @@ The Weather App uses the OpenWeatherMap API to retrieve weather data. To use the
 ### React: JavaScript library for building the user interface.  
 ### Material-UI: A popular React UI framework for designing responsive and attractive UI components.  
 ### Axios: A promise-based HTTP client used for making API requests.  
-## Contributing
-If you wish to contribute to the Weather App, please follow the guidelines in CONTRIBUTING.md.
 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out:
