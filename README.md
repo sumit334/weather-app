@@ -36,9 +36,9 @@ Start the development server:
 npm start  
 Open your web browser and navigate to http://localhost:3000 to access the Weather App.  
 ## Usage
-1.Enter the desired city and country in the input fields provided.
-2.Click the "Get Weather" button to fetch and display the weather information for the specified location.
-3.The weather information will be displayed, including temperature, humidity, sunrise and sunset times, weather condition, and cloud coverage.
+1.Enter the desired city and country in the input fields provided.  
+2.Click the "Get Weather" button to fetch and display the weather information for the specified location.  
+3.The weather information will be displayed, including temperature, humidity, sunrise and sunset times, weather condition, and cloud coverage.  
 ## API Key
 The Weather App uses the OpenWeatherMap API to retrieve weather data. To use the app, you need to obtain a free API key from OpenWeatherMap. Follow the Installation instructions to set up your API key.
 
